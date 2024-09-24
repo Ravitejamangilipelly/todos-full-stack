@@ -1,6 +1,7 @@
 SAMPLE API ENDPOINTS:
 
 // POST /auth/signup
+
 // POST /auth/login
 // POST /tasks/create
 // GET /tasks
